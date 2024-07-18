@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Ee3nTdz8omdBV/2w3EHLjBZnXNM9r49Z0JHv0fRMPzY=",
+  "Source": "LoanStore.Api",
+  "BasePath": "_content/LoanStore.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
